@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "devtools::document()\ngetwd()\nsetwd(\"C:/Users/Usuario/Documents/Kevin Cursos/Kevin Rstudio/Especializacion/Curso 3/week4/tarea/thefinal\")\nlibrary(devtools)\nuse_travis()\n",
+    "created" : 1498373854490.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "474286048",
+    "id" : "C774E301",
+    "lastKnownWriteTime" : 2334386829831463272,
+    "last_content_update" : 1498376515000,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

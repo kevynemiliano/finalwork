@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(testthat)\nlibrary(thefinal)\n\ntest_check(\"thefinal\")\n",
+    "created" : 1498481902814.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2098907059",
+    "id" : "784EBE61",
+    "lastKnownWriteTime" : 8309739921039844683,
+    "last_content_update" : 1498481949263,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

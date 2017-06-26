@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(testthat)\nlibrary(thefinal)\n\n\n#1 fars_read()\nexpect_that(fars_read(\"accident_2014.csv.bz2\"), is_a(\"data.frame\"))\n\n#2 make_filename()\nexpect_that(make_filename(2014), is_a(\"character\"))\n\n#3 fars_read_years()\nexpect_that(fars_read_years(2014), is_a(\"list\"))\n\n#4 fars_summarize_years()\nexpect_that(fars_summarize_years(2014), is_a(\"data.frame\"))\n\n#5 fars_map_state(1,2014)\nexpect_that(fars_map_state(1,2014), is_a(\"NULL\"))\n",
+    "created" : 1498481284466.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4000654944",
+    "id" : "46132697",
+    "lastKnownWriteTime" : 1498482335,
+    "last_content_update" : 1498482335185,
+    "path" : "~/Kevin Cursos/Kevin Rstudio/Especializacion/Curso 3/week4/tarea/thefinal/tests/tests.R",
+    "project_path" : "tests/tests.R",
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
