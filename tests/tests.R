@@ -1,6 +1,7 @@
 library(testthat)
 library(thefinal)
 
+
 #1 fars_read()
 expect_that(fars_read("accident_2014.csv.bz2"), is_a("data.frame"))
 
