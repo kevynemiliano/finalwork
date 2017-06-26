@@ -35,8 +35,8 @@ This repo includes
 To install this package to run on your system, please first install and load the `devtools` package. Then install and load this package:
 
 ```R
-install_github('saptarsi-chowdhury/Building-an-R-Package')
-library(Building-an-R-Package)
+install_github('kevynemiliano/thefinal')
+library(thefinal)
 ```
 
 ### Vignette
